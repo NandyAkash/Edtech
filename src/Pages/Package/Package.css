@@ -1,0 +1,9 @@
+.package-container .card {
+  height: 356px;
+}
+@media only screen and (max-width: 500px) {
+  .package-container .card {
+    width: 80%;
+    margin: 0 auto;
+  }
+}
